@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/splash_bg"
-    tools:context=".SplashActivity">
+    tools:context=".Controller.SplashActivity">
 
     <ImageView
         android:id="@+id/imageView"
@@ -18,11 +18,12 @@
         android:layout_marginRight="8dp"
         android:contentDescription="@string/logo"
         android:scaleType="centerCrop"
-        android:src="@drawable/icon_white"
+        android:src="@drawable/icons"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+         />
 
     <TextView
         android:id="@+id/textView"

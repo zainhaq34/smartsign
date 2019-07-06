@@ -1,4 +1,4 @@
-package com.glomaxsolutions.smartsign_player;
+package com.glomaxsolutions.smartsign_player.Controller;
 
 import android.media.MediaPlayer;
 import android.net.Uri;
@@ -8,6 +8,8 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.Toast;
 import android.widget.VideoView;
+
+import com.glomaxsolutions.smartsign_player.R;
 
 public class CampaignActivity extends AppCompatActivity {
 

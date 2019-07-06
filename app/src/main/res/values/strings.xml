@@ -2,9 +2,9 @@
     <string name="app_name">Smart Sign</string>
     <string name="logo">logo_string</string>
     <string name="welcome_string">Welcome To</string>
-    <string name="smart_sign_string">Smart Sign</string>
     <string name="solutions_string">Signage Solutions</string>
     <string name="line_string">line</string>
     <string name="powered_string">Powered by Glomax Solutions</string>
     <string name="version_string">v.1.1</string>
+    <string name="smart_sign_string">Smart Sign</string>
 </resources>
