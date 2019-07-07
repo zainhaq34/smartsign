@@ -7,4 +7,6 @@
     <string name="powered_string">Powered by Glomax Solutions</string>
     <string name="version_string">v.1.1</string>
     <string name="smart_sign_string">Smart Sign</string>
+
+    <string name="video_file_isExist">There is no video file.\n Goto Folder <b><i>/Smart Sign Video List</i></b> \nAdd video file. \nVideo file name must be as same format <b>(video.mp4)</b></string>
 </resources>
